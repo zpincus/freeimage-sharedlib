@@ -1,4 +1,6 @@
-The distribution of these FreeImage binary libraries is governed by the 
-FreeImage license, included as "license-fi.txt".
+The distribution of these precompiled binaries of the FreeImage library is
+governed by the FreeImage license, included here as "license-fi.txt".
 
-No modifications to the source code, available from http://freeimage.sourceforge.net/ , have been made.
+The original source code is available from http://freeimage.sourceforge.net/ 
+No modifications to this code have been made beyond compilation for various
+platforms / architectures.
